@@ -1,25 +1,22 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import SocialCard from './component/Social';
+import data from './component/json-test.json'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+
+          <div className="socialContainer">
+          {data.map((post, key) =>
+            <SocialCard background={post.background} color={post.color} greeting={post.greeting} author={post.author} key={post.greeting} />
+          )}
+          </div>
         </header>
+
       </div>
     );
   }
