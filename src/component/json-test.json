@@ -1,61 +1,74 @@
-[{
-  "author": "Maryl Frankton",
-  "greeting": "magna vestibulum aliquet ultrices",
-  "background": "#e66849",
-  "color": "#514c46"
-}, {
-  "author": "Nolan Stranks",
-  "greeting": "diam neque vestibulum eget",
-  "background": "#90ef5f",
-  "color": "#bf11f6"
-}, {
-  "author": "Homer Locarno",
-  "greeting": "at vulputate vitae nisl aenean",
-  "background": "#164267",
-  "color": "#c4da4b"
-}, {
-  "author": "Miranda Dibb",
-  "greeting": "sit amet eleifend",
-  "background": "#1d037a",
-  "color": "#6faf0c"
-}, {
-  "author": "Jillian Roggeman",
-  "greeting": "nisi vulputate nonummy",
-  "background": "#eb9635",
-  "color": "#b7011a"
-}, {
-  "author": "Ellyn Entreis",
-  "greeting": "pede ac diam cras",
-  "background": "#e8e0d2",
-  "color": "#6eead7"
-}, {
-  "author": "Gifford Cricket",
-  "greeting": "sed vestibulum sit",
-  "background": "#f28d33",
-  "color": "#20bb32"
-}, {
-  "author": "Deeyn Tibb",
-  "greeting": "sapien dignissim vestibulum",
-  "background": "#721476",
-  "color": "#490996"
-}, {
-  "author": "Darrin Roome",
-  "greeting": "eleifend pede libero quis orci",
-  "background": "#7ea99d",
-  "color": "#30cb08"
-}, {
-  "author": "Ronalda Roderighi",
-  "greeting": "nisl aenean lectus pellentesque",
-  "background": "#656ffc",
-  "color": "#9a41eb"
-}, {
-  "author": "Margi Doeg",
-  "greeting": "ut volutpat sapien",
-  "background": "#20695b",
-  "color": "#652e7c"
-}, {
-  "author": "Everard Frigot",
-  "greeting": "cum sociis natoque penatibus et",
-  "background": "#132681",
-  "color": "#7210b7"
-}]
+[
+  {
+    "author": "Maryl Frankton",
+    "greeting": "magna vestibulum aliquet ultrices",
+    "background": "#e66849",
+    "color": "#514c46"
+  },
+  {
+    "author": "Nolan Stranks",
+    "greeting": "diam neque vestibulum eget",
+    "background": "#90ef5f",
+    "color": "#bf11f6"
+  },
+  {
+    "author": "Homer Locarno",
+    "greeting": "at vulputate vitae nisl aenean",
+    "background": "#164267",
+    "color": "#c4da4b"
+  },
+  {
+    "author": "Miranda Dibb",
+    "greeting": "sit amet eleifend",
+    "background": "#1d037a",
+    "color": "#6faf0c"
+  },
+  {
+    "author": "Jillian Roggeman",
+    "greeting": "nisi vulputate nonummy",
+    "background": "#eb9635",
+    "color": "#b7011a"
+  },
+  {
+    "author": "Ellyn Entreis",
+    "greeting": "pede ac diam cras",
+    "background": "#e8e0d2",
+    "color": "#6eead7"
+  },
+  {
+    "author": "Gifford Cricket",
+    "greeting": "sed vestibulum sit",
+    "background": "#f28d33",
+    "color": "#20bb32"
+  },
+  {
+    "author": "Deeyn Tibb",
+    "greeting": "sapien dignissim vestibulum",
+    "background": "#721476",
+    "color": "#490996"
+  },
+  {
+    "author": "Darrin Roome",
+    "greeting": "eleifend pede libero quis orci",
+    "background": "#7ea99d",
+    "color": "#30cb08"
+  },
+  {
+    "author": "Ronalda Roderighi",
+    "greeting": "nisl aenean lectus pellentesque",
+    "background": "#656ffc",
+    "color": "#9a41eb"
+  },
+  {
+    "author": "Margi Doeg",
+    "greeting": "ut volutpat sapien",
+    "background": "#20695b",
+    "color": "#652e7c"
+  },
+  {
+    "author": "Everard Frigot",
+    "greeting": "cum sociis natoque penatibus et",
+    "background": "#132681",
+    "color": "#7210b7"
+  }
+]
